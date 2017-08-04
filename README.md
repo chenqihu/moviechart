@@ -1,1 +1,3 @@
 # moviechart
+
+npm run dev
